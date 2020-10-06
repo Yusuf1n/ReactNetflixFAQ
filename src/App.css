@@ -1,0 +1,24 @@
+body {
+  background-color:black;
+  color: white;
+  text-align: center;
+}
+.FAQ {
+
+  text-align:left;
+  background-color: darkgray;
+  margin: auto;
+  width: 520px;
+  height: 50px;
+  padding: 2px;
+  border: 2px solid black;
+
+}
+
+.Free {
+  background-color: red;
+  margin: auto;
+  height: 5+0px;
+  width: 160px;
+  padding: 1px;
+}
